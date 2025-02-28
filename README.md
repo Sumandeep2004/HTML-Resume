@@ -1,1 +1,1 @@
-#This is my first major project made by me using HTML and CSS.
+#This is my first project that I made after Learning basic HTML
